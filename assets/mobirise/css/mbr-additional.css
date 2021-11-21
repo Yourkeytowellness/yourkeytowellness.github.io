@@ -822,6 +822,7 @@ section.lazy-placeholder:after {
 .cid-ruEMLnbtZg .mbr-text,
 .cid-ruEMLnbtZg .mbr-section-btn {
   color: #0b6665;
+  text-align: left;
 }
 .cid-sNca7lwQDc {
   padding-top: 15px;
@@ -835,6 +836,7 @@ section.lazy-placeholder:after {
 .cid-sNca7lwQDc .mbr-content-text {
   color: #0b6665;
   margin-bottom: 0;
+  text-align: left;
 }
 .cid-sNca7lwQDc .card {
   word-wrap: break-word;
@@ -885,6 +887,7 @@ section.lazy-placeholder:after {
 }
 .cid-sNca7lwQDc .img-text {
   color: #0b6665;
+  text-align: left;
 }
 .cid-sPmDH4g9KI {
   padding-top: 30px;
@@ -4613,6 +4616,7 @@ section.lazy-placeholder:after {
 .cid-rtDtjrFiHU .mbr-text,
 .cid-rtDtjrFiHU .mbr-section-btn {
   color: #0b6665;
+  text-align: left;
 }
 .cid-rtDtjrFiHU P {
   color: #0b6665;
@@ -4686,6 +4690,7 @@ section.lazy-placeholder:after {
 }
 .cid-rxeXEn5CaJ .mbr-text {
   color: #0b6665;
+  text-align: left;
 }
 .cid-rxeXEn5CaJ .mbr-author-desc {
   display: block;
@@ -5376,6 +5381,7 @@ section.lazy-placeholder:after {
 .cid-sPlJQnd8pk .mbr-content-text {
   color: #0b6665;
   margin-bottom: 0;
+  text-align: left;
 }
 .cid-sPlJQnd8pk .card {
   word-wrap: break-word;
@@ -5415,9 +5421,11 @@ section.lazy-placeholder:after {
 }
 .cid-sPlJQnd8pk H4 {
   color: #0b6665;
+  text-align: left;
 }
 .cid-sPlJQnd8pk .img-text {
   color: #0b6665;
+  text-align: left;
 }
 .cid-sPlVd4pOnW {
   padding-top: 0px;
@@ -5431,6 +5439,7 @@ section.lazy-placeholder:after {
 .cid-sPlVd4pOnW .mbr-content-text {
   color: #0b6665;
   margin-bottom: 0;
+  text-align: left;
 }
 .cid-sPlVd4pOnW .card {
   word-wrap: break-word;
@@ -5470,9 +5479,11 @@ section.lazy-placeholder:after {
 }
 .cid-sPlVd4pOnW H4 {
   color: #0b6665;
+  text-align: left;
 }
 .cid-sPlVd4pOnW .img-text {
   color: #0b6665;
+  text-align: left;
 }
 .cid-sPmEDM6h1t {
   padding-top: 15px;
@@ -6898,7 +6909,7 @@ section.lazy-placeholder:after {
 }
 .cid-sPm7PlQZRD .plan-title {
   margin-top: 1.4rem;
-  text-align: center;
+  text-align: left;
   color: #146f6b;
 }
 .cid-sPm7PlQZRD .price-figure {
@@ -6921,7 +6932,7 @@ section.lazy-placeholder:after {
 }
 .cid-sPm7PlQZRD P {
   color: #146f6b;
-  text-align: center;
+  text-align: left;
 }
 .cid-sPm8GBOYpN {
   padding-top: 30px;
@@ -6980,7 +6991,7 @@ section.lazy-placeholder:after {
 }
 .cid-sPmPNZndsw .plan-title {
   margin-top: 1.4rem;
-  text-align: center;
+  text-align: left;
   color: #146f6b;
 }
 .cid-sPmPNZndsw .price-figure {
@@ -7003,7 +7014,7 @@ section.lazy-placeholder:after {
 }
 .cid-sPmPNZndsw P {
   color: #146f6b;
-  text-align: center;
+  text-align: left;
 }
 .cid-sPmQSOQC0T {
   padding-top: 30px;
